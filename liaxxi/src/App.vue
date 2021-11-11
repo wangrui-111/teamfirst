@@ -8,7 +8,8 @@
     <hr>
     <br>
     <router-link to="/">我是第一页1111111111111111111111111111</router-link> |
-    <router-link to="/about">我是第二页2222222222222222</router-link> |
+
+    <router-link to="/about">我是第二页22222222</router-link> |
 
     <router-view />
   </div>
